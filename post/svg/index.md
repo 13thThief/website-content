@@ -245,7 +245,7 @@ Adds a text along the shape of a path element.
 
 ### `polygon`
 
-Draw any random polygon with `polygon`. `points represents a set of x, y coordinates the polygon should link:
+Draw any random polygon with `polygon`. `points` represents a set of x, y coordinates the polygon should link:
 
 ```html
 <svg>
